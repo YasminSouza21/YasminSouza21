@@ -3,7 +3,7 @@
 - 🤠 Tenho **19 anos**
 - 🎓 Estou estudando Engenharia de Software no Centro Universitário Filadélfia(Unifil)
 - 👩🏽‍💻 Sou desenvolvedora back-end
-- 📖 Estou aprendendo mais sobre java, spring boot, entre outras tecnologias
+- 📖 Estou aprendendo mais sobre IA, Python e Java
 
 ## Minhas Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
